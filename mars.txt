@@ -3,3 +3,6 @@ The two moons may be a problem for Wolfman
 But the mummy will appreciate the lack of humidity
 
 But we decide mars aint a good base.
+
+
+changes made in the sub1 branch
