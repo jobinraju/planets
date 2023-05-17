@@ -7,3 +7,5 @@ But we decide mars aint a good base.
 
 changes made in the sub1 branch 
 now about to try git diff
+
+another change in sub1 branch
